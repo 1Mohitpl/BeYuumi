@@ -1,13 +1,13 @@
 # Be-Yummi 🚀
 Online Food Delivery App 🍽️
 
-## Screenshots
-
-![](https://via.placeholder.com/468x300?text=App+Screenshot+)
 
 
-## Run Locally
+## Instruction before running the project
 
+If you are running it locallly or from hosted link make sure you have installed Allow CORS chrome extension as it fetches the live data from swiggy's API.
+
+As i am still working on this project i will fix this issue soo 🛠️
 Clone the project
 
 ```bash
@@ -64,3 +64,32 @@ To run this project, you will need to add the following environment variables to
 ## Tech
 
 Front-end
+
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://link-to-project
+```
+
+Go to the project directory
+
+```bash
+  cd my-project
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run start
+```
+
+
