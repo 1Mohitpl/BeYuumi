@@ -1,6 +1,5 @@
 # Be-Yummi 🚀
-Online Food Delivery App 🍽️
-
+Building Be-Yummi Food app using React
 
 
 ## Instruction before running the project
@@ -10,48 +9,23 @@ If you are running it locallly or from hosted link make sure you have installed 
 As i am still working on this project i will fix this issue soo 🛠️
 Clone the project
 
-```bash
-  git clone https://github.com/1Mohitpl/EatChat.git
-```
+## Features
 
-Go to the project directory
-
-```bash
-  cd EatChat
-```
-
-Install dependencies
-
-```bash
-  npm install
-```
-
-Start the server
-
-```bash
-  npm run start
-```
+- It is an FoodDelivery app home page with dynamic resturant cards.
+- Profile Section
+- using Tailwind CSS
+- Optimization using Lazy loading and suspense
+- Filter top rated restaurants.
+- Clickable cards that will display restaurant menu.
+- Search Functionality.
+- Dynamic Routing
+- Dynamic Restaurant Menu
+- Dynamic view of Restaurant
+- User Online/Offline status
+- Custom Hooks
+- React testing library (jest)
 
 
-## Deployment
-
-To deploy this project run
-
-```bash
-npm run build
-```
-## Environment Variables
-
-To run this project, you will need to add the following environment variables to your .env file
-
-`Parcel` `react` 
-`Babel`
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/1mohitpl/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/1mohitpl/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Mohit_as_it_is) 
-
-## Tech
-
-Front-end
 
 
 ## Run Locally
@@ -59,13 +33,13 @@ Front-end
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/1Mohitpl/BeYuumi.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd cd beyumm
 ```
 
 Install dependencies
@@ -79,5 +53,6 @@ Start the server
 ```bash
   npm run start
 ```
+
 
 
